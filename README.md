@@ -15,7 +15,7 @@
 
 ## 🚀 About Me
 
-> **3.8 years** of production experience building CI/CD pipelines, Kubernetes platforms, and cloud-native automation on **AWS** — delivering measurable impact at scale.
+> **4 years** of production experience building CI/CD pipelines, Kubernetes platforms, and cloud-native automation on **AWS** — delivering measurable impact at scale.
 
 - 🔧 Built Jenkins & GitHub Actions pipelines cutting release cycles by **50–60%**
 - ☁️ Automated AWS provisioning with Terraform, improving speed by **40%**
