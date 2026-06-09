@@ -1,136 +1,84 @@
-<div align="center">
+# Hi, I'm PushpaRaghul 👋
 
-# Hi, I'm Pushpa Raghul R 👋
-### AWS DevOps Engineer | Platform Engineer | SRE | DevSecOps
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pushparaghul-devops)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raghul011)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:raghul.devops.engineer@gmail.com)
-[![Location](https://img.shields.io/badge/Chennai%2C%20India-4CAF50?style=for-the-badge&logo=google-maps&logoColor=white)](#)
-[![Open to Work](https://img.shields.io/badge/Immediate%20Joiner-FF6B35?style=for-the-badge&logo=hand-holding-heart&logoColor=white)](#)
-
-</div>
+**AWS & Azure DevOps Engineer · Platform Engineer · SRE**  
+Chennai, India · Immediate Joiner · Open to Relocation
 
 ---
 
-## 🚀 About Me
+## About Me
 
-> **4 years** of production experience building CI/CD pipelines, Kubernetes platforms, and cloud-native automation on **AWS** — delivering measurable impact at scale.
+4 years of production experience building and scaling CI/CD pipelines, Kubernetes platforms, and cloud-native infrastructure across AWS and Azure. I focus on shipping faster, staying reliable, and keeping systems observable.
 
-- 🔧 Built Jenkins & GitHub Actions pipelines cutting release cycles by **50–60%**
-- ☁️ Automated AWS provisioning with Terraform, improving speed by **40%**
-- ⚙️ Managed Kubernetes clusters sustaining **99.9% production uptime**
-- 📉 Built observability stacks reducing incident response time by **45%**
-- 🔒 Integrated DevSecOps tooling (SonarQube + Trivy) into every CI/CD workflow
-- 🏠 Chennai, India | **Immediate Joiner** | Open to Relocation
-
----
-
-## 🛠️ Tech Stack
-
-### ☁️ Cloud & Infrastructure
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![EC2](https://img.shields.io/badge/EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white)
-![ECS](https://img.shields.io/badge/ECS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![EKS](https://img.shields.io/badge/EKS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![RDS](https://img.shields.io/badge/RDS-527FFF?style=for-the-badge&logo=amazonrds&logoColor=white)
-![S3](https://img.shields.io/badge/S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white)
-![Route53](https://img.shields.io/badge/Route53-8C4FFF?style=for-the-badge&logo=amazonaws&logoColor=white)
-![CloudWatch](https://img.shields.io/badge/CloudWatch-FF4F8B?style=for-the-badge&logo=amazonaws&logoColor=white)
-
-### 📦 Containers & Orchestration
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white)
-![ECR](https://img.shields.io/badge/ECR-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-
-### 🔄 CI/CD & GitOps
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white)
-![GitOps](https://img.shields.io/badge/GitOps-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-### 🏗️ Infrastructure as Code
-![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
-
-### 📊 Monitoring & Observability
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
-![CloudWatch](https://img.shields.io/badge/CloudWatch-FF4F8B?style=for-the-badge&logo=amazonaws&logoColor=white)
-
-### 🔒 DevSecOps
-![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white)
-![Trivy](https://img.shields.io/badge/Trivy-1904DA?style=for-the-badge&logo=aquasecurity&logoColor=white)
-
-### 💻 Scripting & OS
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+- 🚀 Reduced deployment cycles from **weekly releases to daily builds** using Jenkins, GitHub Actions & Azure Pipelines
+- ☸️ Managed **production Kubernetes clusters** (EKS, AKS) with Helm, HPA, rolling updates, and zero-downtime blue-green deployments
+- 🔧 Built **reusable Terraform modules** with remote state and locking to eliminate config drift across multi-environment setups
+- 📊 Implemented **full-stack observability** with Prometheus, Grafana, and CloudWatch — proactive alerting, minimized MTTR
+- 🛡️ Integrated **DevSecOps tooling** (SonarQube + Trivy) directly into CI/CD pipelines, reducing container vulnerabilities pre-deploy
+- ⚙️ Automated Linux provisioning and multi-environment config with Ansible, Bash, and Python
 
 ---
 
-## 📈 Key Achievements
+## Tech Stack
 
-| Metric | Impact |
-|--------|--------|
-| 🚀 Deployment Speed | **50–60% faster** release cycles |
-| ⚡ Infrastructure Provisioning | **40% faster** with Terraform automation |
-| ✅ Production Uptime | **99.9%** across all environments |
-| 🔔 Incident Response | **45% faster** with proactive alerting |
-| 🤖 Operational Overhead | **60% reduced** via Ansible automation |
-| 🔧 Manual Setup Time | **35% less** with standardised IaC |
+**Cloud & Infrastructure**  
+`AWS` `Azure` `EC2` `S3` `VPC` `Route53` `EKS` `ECS Fargate` `AKS` `ACR` `ECR` `IAM` `RDS` `DynamoDB` `ALB`
 
----
+**Containers & Orchestration**  
+`Docker` `Kubernetes` `Helm` `HPA` `ConfigMaps` `Secrets` `Pod Scaling`
 
-## 📂 Featured Projects
+**Infrastructure as Code**  
+`Terraform` `Ansible` `CloudFormation`
 
-| Project | Description | Stack |
-|---------|-------------|-------|
-| [🔄 CI/CD Pipeline Automation](https://github.com/raghul011/cicd-pipeline-automation) | End-to-end pipelines with blue-green deploys, rollback, and approval gates | Jenkins · GitHub Actions · Docker · ECS |
-| [☸️ Kubernetes Production Platform](https://github.com/raghul011/kubernetes-production-platform) | Scalable K8s clusters with Helm, HPA, full Prometheus-Grafana observability | Kubernetes · Helm · Prometheus · Grafana |
-| [🏗️ Terraform AWS Infrastructure](https://github.com/raghul011/terraform-aws-infrastructure) | Modular IaC for VPC, ECS, RDS, IAM with remote state & DynamoDB locking | Terraform · AWS · S3 · DynamoDB |
-| [⚙️ Ansible Config Management](https://github.com/raghul011/ansible-config-management) | Multi-env Linux provisioning eliminating 60% operational overhead | Ansible · Linux · Bash · Python |
+**CI/CD & GitOps**  
+`Jenkins` `GitHub Actions` `Azure Pipelines` `ArgoCD` `GitOps` `Blue-Green Deployments`
 
----
+**Monitoring & Observability**  
+`Prometheus` `Grafana` `CloudWatch` `APM` `Log Aggregation` `Alerting`
 
-## 🔁 DevOps Lifecycle Coverage
+**DevSecOps**  
+`SonarQube` `Trivy` `Vulnerability Management` `SRE Principles`
 
-```
-Plan  → Jira · Agile · Sprint Planning
-Code  → Git · GitHub · GitOps · Branching
-Build → Jenkins · GitHub Actions · Docker
-Test  → SonarQube · Trivy · Quality Gates
-Release → ArgoCD · Helm · Blue-Green · Rollback
-Deploy  → ECS Fargate · EKS · Terraform · Ansible
-Operate → HPA · Auto Scaling · IAM · VPC
-Monitor → Prometheus · Grafana · CloudWatch
-```
+**Scripting & Automation**  
+`Bash` `Shell Scripting` `Python` `Linux SysAdmin`
+
+**Version Control**  
+`Git` `GitHub` `Branching Strategies` `Code Reviews`
 
 ---
 
-## 📊 GitHub Stats
+## Featured Projects
 
-<div align="center">
+### 🔵 CI/CD Pipeline Automation & Kubernetes Production Platform
+*(Sep 2022 – Jun 2024 · 2.75 years)*
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=raghul011&show_icons=true&theme=dark&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=raghul011&layout=compact&theme=dark&hide_border=true)
+End-to-end CI/CD pipelines supporting ECS Fargate and Kubernetes with zero-downtime blue-green deployments, manual approval gates, and automated rollback. Production Kubernetes infrastructure using Helm, HPA auto-scaling, ConfigMap/Secret management, and full-stack observability with Prometheus and Grafana.
 
-</div>
-
----
-
-## 🤝 Let's Connect
-
-I'm actively looking for **DevOps / Platform / SRE roles** — product-driven or cloud-native environments.
-
-📧 **raghul.devops.engineer@gmail.com**
-📍 **Chennai | Open to Relocation | Immediate Joiner**
-
-[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pushparaghul-devops)
+**Stack:** Jenkins · GitHub Actions · Kubernetes · Helm · ECS Fargate · EKS · Prometheus · Grafana · Terraform · Docker
 
 ---
 
-<div align="center">
-<sub>⚡ Automating everything, one pipeline at a time.</sub>
-</div>
+### 🟣 Azure Cloud Infrastructure & Platform Engineering
+*(Jun 2024 – Present)*
+
+Enterprise Azure infrastructure including AKS cluster automation, Azure DevOps pipeline orchestration, and Terraform-based IaC for multi-environment consistency. Cloud-native deployment strategies focused on scalability, security, and cost optimization.
+
+**Stack:** Azure DevOps · AKS · Terraform · Azure Pipelines · ACR · Azure Monitor · Azure VMs
+
+---
+
+## GitHub Stats
+
+![Raghul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=raghul011&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=raghul011&layout=compact&theme=tokyonight&hide_border=true)
+
+---
+
+## Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Pushpa%20Raghul-0A77B6?style=flat&logo=linkedin)](https://linkedin.com/in/pushparaghul-devops)
+[![Gmail](https://img.shields.io/badge/Email-raghul.devops.engineer@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:raghul.devops.engineer@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-raghul011-181717?style=flat&logo=github)](https://github.com/raghul011)
+
+---
+
+> *"Ship fast. Stay reliable. Keep it observable."*
